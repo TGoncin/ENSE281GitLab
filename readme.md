@@ -1,4 +1,4 @@
 # ENSE 281 Git Lab
-- Item one
+- Thing one
 - Item two
 **Bold text here**
